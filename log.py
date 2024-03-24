@@ -1,7 +1,7 @@
 import subprocess
 from datetime import datetime
 import json
-from jycm.jycm import YouchamaJsonDiffer
+#from jycm.jycm import YouchamaJsonDiffer
 from deepdiff import DeepDiff
 from pathlib import Path
 
